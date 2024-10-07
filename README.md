@@ -2,7 +2,7 @@
 
 This repository contains code and resources for the paper **"[Exploiting Node Content for Multiview Graph Convolutional Network and Adversarial Regularization](https://aclanthology.org/2020.coling-main.47/)"**.
 
-![MRGAE Architecture](assets/architecture.png)
+![MRGAE Architecture](architecture.png)
 
 
 ## Overview
